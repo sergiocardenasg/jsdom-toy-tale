@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const toyCollection = document.querySelector("#toy-collection");
   
   fetch(baseURL)
-  .then(resp => resp.json())
+  .then(response => response.json())
   .then(data => {
     data.forEach(createNewToy)
   })
