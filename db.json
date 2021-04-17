@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Grogu",
+      "image": "https://static.wikia.nocookie.net/starwars/images/4/43/TheChild-Fathead.png/revision/latest?cb=20201031231040",
+      "likes": 13,
+      "id": 10
+    },
+    {
+      "name": "Meditol",
+      "image": "https://static.wikia.nocookie.net/sonicpokemon/images/a/ac/Marill.jpg/revision/latest?cb=20130717051915",
+      "likes": 16,
+      "id": 11
     }
   ]
 }
